@@ -92,7 +92,7 @@
      cursor:pointer;
      padding: 15px 30px;
  }
- /*---------------------features------*/
+
  
  .features{
      padding: 50px 12%;
@@ -123,7 +123,7 @@
      font-weight: 600;
      margin-bottom: 20px;
  }
- /*----------faq---------*/
+
  
  .faq{
      padding:10px 12%;
@@ -188,7 +188,7 @@
  .faq small{
      font-size: 13px;
  }
- /*-------footer----------*/
+
  
  .footer{
      padding: 50px 15% 10px;
@@ -227,9 +227,6 @@
      margin-top: 20px;
      margin-bottom:10px;
  }
- 
- 
- /*---------media queries-for-small-screen-------*/
  
  @media only screen and (max-width:600px){
      .logo{
@@ -295,13 +292,13 @@
     border: 2px solid whitesmoke;
   }
   
-  /* The container <div> - needed to position the dropdown content */
+  
   .dropdown {
     position: relative;
     display: inline-block;
   }
   
-  /* Dropdown Content (Hidden by Default) */
+  
   .dropdown-content {
     display: none;
     position: absolute;
@@ -313,7 +310,7 @@
     z-index: 1;
   }
   
-  /* Links inside the dropdown */
+  
   .dropdown-content a {
     color: rgb(255, 255, 255);
     padding: 12px 16px;
@@ -321,10 +318,10 @@
     display: block;
   }
   
-  /* Change color of dropdown links on hover */
+
   .dropdown-content a:hover {background-color: #ddd;}
   
-  /* Show the dropdown menu on hover */
+
   .dropdown:hover .dropdown-content {display: block;}
   
   
